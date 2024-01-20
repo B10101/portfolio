@@ -26,67 +26,53 @@
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Project One ",
+      "description": "Attempt at creating an motor thrust measuring system",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/B10101/motorteststand"
     },
     {
       "id": "2",
       "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "description": "Chatbot",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/B10101/chat"
     },
     {
       "id": "3",
       "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "description": "ESP- IDF",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/B10101/esp_32_tut"
     },
     {
       "id": "4",
       "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
+      "description": "Machine Learning",
       "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/B10101/machinelearning"
     }
   ],
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "title": "Software design",
+      "description": "I provide comprehensive software design services, crafting solutions that seamlessly integrate functionality and user experience. My expertise lies in conceptualizing system architectures, defining data flow, and creating intuitive user interfaces. Through thoughtful design, I ensure the development of efficient, scalable, and user-friendly software solutions."
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Drawing",
+      "description": "I offer professional drawing services in Fusion 360, utilizing the software's robust capabilities to create precise 2D sketches and transform them into intricate 3D models. My expertise includes leveraging various tools and constraints, ensuring accurate and customizable designs. "
     },
     {
       "id": "3",
       "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "description": "My services encompass layout, navigation, and graphic elements, ensuring seamless functionality and an engaging interface. I focus on responsive design, optimizing websites for various devices to enhance accessibility and user satisfaction."
     },
     {
       "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "title": "IOT development",
+      "description": "I specialize in IoT (Internet of Things) development services, creating innovative solutions that seamlessly connect devices and enable data-driven decision-making. My expertise spans sensor integration, communication protocols, cloud connectivity, and application development. I design and implement IoT systems that enhance efficiency, monitor assets, and provide actionable insights, tailored to meet specific industry requirements."
     }
   ],
   "aboutpara": "I am a JKUAT student studying Mechatronics with a passion for IoT, software development, chess, and bike riding. Proficient in Python, Rust, C, C++, Lua, and Bash, I apply my diverse programming skills to various projects. Currently pursuing my academic journey, I integrate theoretical knowledge with practical applications. My fascination with IoT fuels my exploration of innovative solutions connecting the physical and digital realms. Beyond technology, I am an avid chess player, fostering analytical and strategic thinking. Exploring the world on a bike provides a refreshing balance to my academic and technological pursuits.\n\nIn the realm of Cybersecurity, I contribute to securing systems and data, recognizing its critical importance in our interconnected world. This concise portfolio encapsulates my academic dedication, technical expertise, and personal interests. Excited about the intersection of creativity and technology, I am eager to apply my skills to future projects and contribute meaningfully to the dynamic field of IT.",
